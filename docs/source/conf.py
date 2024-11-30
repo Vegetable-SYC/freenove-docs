@@ -93,7 +93,7 @@ html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 
 
 intersphinx_mapping = {
-    "rpi-starter-kit": ("https://docs.freenove.com/projects/rpi-starter-kit/en/latest/", None),
+    "rpi-starter-kit": ("https://freenove-docs2.readthedocs.io/projects/fnk0066/en/latest/", None),
 }
 intersphinx_disabled_reftypes = ["*"]
 
