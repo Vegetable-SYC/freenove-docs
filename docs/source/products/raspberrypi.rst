@@ -9,17 +9,17 @@ Starter kits
     :width: 100%
     :class: product-table
 
-    ====================================    ===============================================================     ==============================================================================
-    Image                                   SKU                                                                 Name
-    ====================================    ===============================================================     ==============================================================================
-    |FNK0019.MAIN|                          :doc:`FNK0019 <rpi-starter-kit:fnk0019/fnk0019>`                    Freenove Super Starter Kit for Raspberry Pi
-    |FNK0020.MAIN|                          :doc:`FNK0020 <rpi-starter-kit:fnk0020/fnk0020>`                    Freenove Ultimate Starter Kit for Raspberry Pi
-    |FNK0022.MAIN|                          :doc:`FNK0022 <rpi-starter-kit:fnk0022/fnk0022>`                    Freenove Basic Starter Kit for Raspberry Pi
-    |FNK0023.MAIN|                          :doc:`FNK0023 <rpi-starter-kit:fnk0023/fnk0023>`                    Freenove LCD1602 Starter Kit for Raspberry Pi
-    |FNK0024.MAIN|                          :doc:`FNK0024 <rpi-starter-kit:fnk0024/fnk0024>`                    Freenove Ultrasonic Starter Kit for Raspberry Pi
-    |FNK0025.MAIN|                          :doc:`FNK0025 <rpi-starter-kit:fnk0025/fnk0025>`                    Freenove RFID Starter Kit for Raspberry Pi
-    |FNK0066.MAIN|                          :doc:`FNK0066 <rpi-starter-kit:fnk0066/fnk0066>`                    Freenove Complete Starter Kit for Raspberry Pi
-    ====================================    ===============================================================     ==============================================================================
+    ====================================    ======================================================================     ==============================================================================
+    Image                                   SKU                                                                        Name
+    ====================================    ======================================================================     ==============================================================================
+    |FNK0019.MAIN|                          :doc:`FNK0019 <rpi-starter-kit:fnk0019/en/latest/fnk0019/fnk0019>`         Freenove Super Starter Kit for Raspberry Pi
+    |FNK0020.MAIN|                          :doc:`FNK0020 <rpi-starter-kit:fnk0020/en/latest/fnk0020/fnk0020>`         Freenove Ultimate Starter Kit for Raspberry Pi
+    |FNK0022.MAIN|                          :doc:`FNK0022 <rpi-starter-kit:fnk0022/en/latest/fnk0022/fnk0022>`         Freenove Basic Starter Kit for Raspberry Pi
+    |FNK0023.MAIN|                          :doc:`FNK0023 <rpi-starter-kit:fnk0023/en/latest/fnk0023/fnk0023>`         Freenove LCD1602 Starter Kit for Raspberry Pi
+    |FNK0024.MAIN|                          :doc:`FNK0024 <rpi-starter-kit:fnk0024/en/latest/fnk0024/fnk0024>`         Freenove Ultrasonic Starter Kit for Raspberry Pi
+    |FNK0025.MAIN|                          :doc:`FNK0025 <rpi-starter-kit:fnk0025/en/latest/fnk0025/fnk0025>`         Freenove RFID Starter Kit for Raspberry Pi
+    |FNK0066.MAIN|                          :doc:`FNK0066 <rpi-starter-kit:fnk0066/en/latest/fnk0066/fnk0066>`         Freenove Complete Starter Kit for Raspberry Pi
+    ====================================    ======================================================================     ==============================================================================
 
 
 .. |FNK0019.MAIN| image:: ../_static/products/FNK0019.MAIN.jpg    
