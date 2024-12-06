@@ -43,17 +43,17 @@ Robotics kits
     :width: 100%
     :class: product-table
 
-    ====================================    ===============================================================     ==============================================================================
-    Image                                   SKU                                                                 Name
-    ====================================    ===============================================================     ==============================================================================
-    |FNK0021.MAIN|                          :doc:`FNK0021 <rpi-starter-kit:fnk0021/fnk0021>`                    Freenove Three-wheeled Smart Car Kit for Raspberry Pi
-    |FNK0036.MAIN|                          :doc:`FNK0036 <rpi-starter-kit:fnk0036/fnk0036>`                    Freenove Robot Arm Kit for Raspberry Pi
-    |FNK0043.MAIN|                          :doc:`FNK0043 <rpi-starter-kit:fnk0043/fnk0043>`                    Freenove 4WD Smart Car Kit for Raspberry Pi
-    |FNK0043B.MAIN|                         :doc:`FNK0043B <rpi-starter-kit:fnk0043B/fnk0043B>`                 Freenove 4MWD Smart Car Kit for Raspberry Pi
-    |FNK0050.MAIN|                          :doc:`FNK0050 <rpi-starter-kit:fnk0050/fnk0050>`                    Freenove Robot Dog Kit for Raspberry Pi
-    |FNK0052.MAIN|                          :doc:`FNK0052 <rpi-starter-kit:fnk0052/fnk0052>`                    Freenove Big Hexapod Robot Kit for Raspberry Pi
-    |FNK0077.MAIN|                          :doc:`FNK0077 <rpi-starter-kit:fnk0077/fnk0077>`                    Freenove Tank Robot Kit for Raspberry Pi
-    ====================================    ===============================================================     ==============================================================================
+    ====================================    =====================================================================================================     ==============================================================================
+    Image                                   SKU                                                                                                       Name
+    ====================================    =====================================================================================================     ==============================================================================
+    |FNK0021.MAIN|                          `FNK0021 <https://freenove-docs2.readthedocs.io/projects/fnk0019/en/latest/fnk0021/fnk0021.html>`_        Freenove Three-wheeled Smart Car Kit for Raspberry Pi
+    |FNK0036.MAIN|                          `FNK0036 <https://freenove-docs2.readthedocs.io/projects/fnk0020/en/latest/fnk0036/fnk0036.html>`_        Freenove Robot Arm Kit for Raspberry Pi
+    |FNK0043.MAIN|                          `FNK0043 <https://freenove-docs2.readthedocs.io/projects/fnk0022/en/latest/fnk0043/fnk0043.html>`_        Freenove 4WD Smart Car Kit for Raspberry Pi
+    |FNK0043B.MAIN|                         `FNK0043B <https://freenove-docs2.readthedocs.io/projects/fnk0023/en/latest/fnk0043B/fnk0043B.html>`_      Freenove 4MWD Smart Car Kit for Raspberry Pi
+    |FNK0050.MAIN|                          `FNK0050 <https://freenove-docs2.readthedocs.io/projects/fnk0024/en/latest/fnk0050/fnk0050.html>`_        Freenove Robot Dog Kit for Raspberry Pi
+    |FNK0052.MAIN|                          `FNK0052 <https://freenove-docs2.readthedocs.io/projects/fnk0052/en/latest/fnk0052/fnk0052.html>`_        Freenove Big Hexapod Robot Kit for Raspberry Pi
+    |FNK0077.MAIN|                          `FNK0066 <https://freenove-docs2.readthedocs.io/projects/fnk0077/en/latest/fnk0077/fnk0077.html>`_        Freenove Tank Robot Kit for Raspberry Pi
+    ====================================    =====================================================================================================     ==============================================================================
 
 
 .. |FNK0021.MAIN| image:: ../_static/products/FNK0021.MAIN.jpg
