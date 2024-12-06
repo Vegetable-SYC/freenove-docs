@@ -32,6 +32,7 @@ Starter kits
 .. |FNK0024.MAIN| image:: ../_static/products/FNK0024.MAIN.jpg    
     :class: product-image
 .. |FNK0025.MAIN| image:: ../_static/products/FNK0025.MAIN.jpg    
+    
     :class: product-image
 .. |FNK0066.MAIN| image:: ../_static/products/FNK0066.MAIN.jpg    
     :class: product-image
