@@ -13,7 +13,7 @@ function loadReady() {
 	NaviResize();
 	var autoPlay2 = setInterval("test()", 1000);
 	$(".dropBtn").click(function () {
-		$(this).css("background-color", "#FFF");
+		// $(this).css("background-color", "#FFF");
 		$("#txt").text("click:");
 	});
 }
