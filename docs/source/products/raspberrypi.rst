@@ -43,17 +43,17 @@ Robotics kits
     :width: 100%
     :class: product-table
 
-    ====================================    =====================================================================================================     ==============================================================================
-    Image                                   SKU                                                                                                       Name
-    ====================================    =====================================================================================================     ==============================================================================
-    |FNK0021.MAIN|                          `FNK0021 <https://freenove-docs2.readthedocs.io/projects/fnk0019/en/latest/fnk0021/fnk0021.html>`_        Freenove Three-wheeled Smart Car Kit for Raspberry Pi
-    |FNK0036.MAIN|                          `FNK0036 <https://freenove-docs2.readthedocs.io/projects/fnk0020/en/latest/fnk0036/fnk0036.html>`_        Freenove Robot Arm Kit for Raspberry Pi
-    |FNK0043.MAIN|                          `FNK0043 <https://freenove-docs2.readthedocs.io/projects/fnk0022/en/latest/fnk0043/fnk0043.html>`_        Freenove 4WD Smart Car Kit for Raspberry Pi
-    |FNK0043B.MAIN|                         `FNK0043B <https://freenove-docs2.readthedocs.io/projects/fnk0023/en/latest/fnk0043B/fnk0043B.html>`_      Freenove 4MWD Smart Car Kit for Raspberry Pi
-    |FNK0050.MAIN|                          `FNK0050 <https://freenove-docs2.readthedocs.io/projects/fnk0024/en/latest/fnk0050/fnk0050.html>`_        Freenove Robot Dog Kit for Raspberry Pi
-    |FNK0052.MAIN|                          `FNK0052 <https://freenove-docs2.readthedocs.io/projects/fnk0052/en/latest/fnk0052/fnk0052.html>`_        Freenove Big Hexapod Robot Kit for Raspberry Pi
-    |FNK0077.MAIN|                          `FNK0066 <https://freenove-docs2.readthedocs.io/projects/fnk0077/en/latest/fnk0077/fnk0077.html>`_        Freenove Tank Robot Kit for Raspberry Pi
-    ====================================    =====================================================================================================     ==============================================================================
+    ====================================    =======================================================================================================     ==============================================================================
+    Image                                   SKU                                                                                                         Name
+    ====================================    =======================================================================================================     ==============================================================================
+    |FNK0021.MAIN|                          `FNK0021 <https://freenove-docs2.readthedocs.io/projects/fnk0021/en/latest/fnk0021/fnk0021.html>`_          Freenove Three-wheeled Smart Car Kit for Raspberry Pi
+    |FNK0036.MAIN|                          `FNK0036 <https://freenove-docs2.readthedocs.io/projects/fnk0036/en/latest/fnk0036/fnk0036.html>`_          Freenove Robot Arm Kit for Raspberry Pi
+    |FNK0043.MAIN|                          `FNK0043 <https://freenove-docs2.readthedocs.io/projects/fnk0043/en/latest/fnk0043/fnk0043.html>`_          Freenove 4WD Smart Car Kit for Raspberry Pi
+    |FNK0043B.MAIN|                         `FNK0043B <https://freenove-docs2.readthedocs.io/projects/fnk0043B/en/latest/fnk0043B/fnk0043B.html>`_      Freenove 4MWD Smart Car Kit for Raspberry Pi
+    |FNK0050.MAIN|                          `FNK0050 <https://freenove-docs2.readthedocs.io/projects/fnk0050/en/latest/fnk0050/fnk0050.html>`_          Freenove Robot Dog Kit for Raspberry Pi
+    |FNK0052.MAIN|                          `FNK0052 <https://freenove-docs2.readthedocs.io/projects/fnk0052/en/latest/fnk0052/fnk0052.html>`_          Freenove Big Hexapod Robot Kit for Raspberry Pi
+    |FNK0077.MAIN|                          `FNK0066 <https://freenove-docs2.readthedocs.io/projects/FNK0077/en/latest/fnk0077/fnk0077.html>`_          Freenove Tank Robot Kit for Raspberry Pi
+    ====================================    =======================================================================================================     ==============================================================================
 
 
 .. |FNK0021.MAIN| image:: ../_static/products/FNK0021.MAIN.jpg
