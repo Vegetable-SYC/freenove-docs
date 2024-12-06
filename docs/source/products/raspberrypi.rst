@@ -40,6 +40,7 @@ Starter kits
 
 Robotics kits
 ----------------------------------------------------------------
+
 .. table:: Robotics kit
     :width: 100%
     :class: product-table
