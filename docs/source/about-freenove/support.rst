@@ -36,7 +36,7 @@ Get Tutorial
 
         .. container:: centered
             
-            support@freenove.com
+            sale@freenove.com
         
         |
 
