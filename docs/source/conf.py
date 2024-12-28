@@ -81,6 +81,7 @@ rst_prolog = """
 
 html_css_files = [
     "css/color-roles.css",
+    "css/custom.css"
 ]
 
 extlinks = {
