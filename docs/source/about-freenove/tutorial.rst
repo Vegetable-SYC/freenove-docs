@@ -165,7 +165,7 @@ tutorial
       - Freenove Ultimate Starter Kit for Raspberry Pi	
       - `View <https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi>`_	
       - `Download <https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi/archive/master.zip>`_
-      - `Online <Freenove:fnk0020/en/latest/fnk0020/fnk0020.html>`_
+      - :Freenove:`Online <fnk0020>`
 
     * - FNK0021	
       - Freenove Three-wheeled Smart Car Kit
@@ -389,7 +389,7 @@ tutorial
       - Freenove Projects Kit	
       - `View <https://github.com/Freenove/Freenove_Projects_Kit>`_	
       - `Download <https://github.com/Freenove/Freenove_Projects_Kit/archive/refs/heads/refs.zip>`_
-      - Online
+      - :Freenove:`Online <fnk0059>`
 
     * - FNK0060	
       - Freenove ESP32-WROVER Board	
