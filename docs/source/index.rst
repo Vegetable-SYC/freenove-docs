@@ -35,7 +35,6 @@ Click on the link below to obtain your product manual.
 
 .. toctree::
    :maxdepth: 2
-   :titlesonly:
    :caption: Freenove Product
 
    products/products.rst
