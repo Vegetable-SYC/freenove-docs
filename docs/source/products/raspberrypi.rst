@@ -40,20 +40,26 @@ Starter kits
    * -  |FNK0066.MAIN|
      -  :Freenove:`FNK0066 <fnk0066>`
      -  Freenove Complete Starter Kit for Raspberry Pi
+  
+   * -  |FNK0054.MAIN|
+     -  :Freenove:`FNK0054 <fnk0054>`
+     -  Freenove Projects Kit for Raspberry Pi
 
-.. |FNK0019.MAIN| image:: ../_static/products/FNK0019.MAIN.jpg    
+.. |FNK0019.MAIN| image:: ../_static/products/RaspberryPi/FNK0019.MAIN.jpg    
     :width: 60%
-.. |FNK0020.MAIN| image:: ../_static/products/FNK0020.MAIN.jpg    
+.. |FNK0020.MAIN| image:: ../_static/products/RaspberryPi/FNK0020.MAIN.jpg    
     :width: 60%
-.. |FNK0022.MAIN| image:: ../_static/products/FNK0022.MAIN.jpg    
+.. |FNK0022.MAIN| image:: ../_static/products/RaspberryPi/FNK0022.MAIN.jpg    
     :width: 60%
-.. |FNK0023.MAIN| image:: ../_static/products/FNK0023.MAIN.jpg    
+.. |FNK0023.MAIN| image:: ../_static/products/RaspberryPi/FNK0023.MAIN.jpg    
     :width: 60%
-.. |FNK0024.MAIN| image:: ../_static/products/FNK0024.MAIN.jpg    
+.. |FNK0024.MAIN| image:: ../_static/products/RaspberryPi/FNK0024.MAIN.jpg    
     :width: 60%
-.. |FNK0025.MAIN| image:: ../_static/products/FNK0025.MAIN.jpg    
+.. |FNK0025.MAIN| image:: ../_static/products/RaspberryPi/FNK0025.MAIN.jpg    
     :width: 60%
-.. |FNK0066.MAIN| image:: ../_static/products/FNK0066.MAIN.jpg    
+.. |FNK0066.MAIN| image:: ../_static/products/RaspberryPi/FNK0066.MAIN.jpg    
+    :width: 60%
+.. |FNK0054.MAIN| image:: ../_static/products/RaspberryPi/FNK0054.MAIN.jpg    
     :width: 60%
 
 Robotics kits
@@ -97,29 +103,24 @@ Robotics kits
      -  fnk0077
      -  Freenove Tank Robot Kit for Raspberry Pi
 
-
-.. |FNK0021.MAIN| image:: ../_static/products/FNK0021.MAIN.jpg
+.. |FNK0021.MAIN| image:: ../_static/products/RaspberryPi/FNK0021.MAIN.jpg
     :class: product-image
     :width: 60%
-.. |FNK0036.MAIN| image:: ../_static/products/FNK0036.MAIN.jpg
+.. |FNK0036.MAIN| image:: ../_static/products/RaspberryPi/FNK0036.MAIN.jpg
     :class: product-image
     :width: 60%
-.. |FNK0043.MAIN| image:: ../_static/products/FNK0043.MAIN.jpg    
+.. |FNK0043.MAIN| image:: ../_static/products/RaspberryPi/FNK0043.MAIN.jpg    
     :class: product-image
     :width: 60%
-.. |FNK0043B.MAIN| image:: ../_static/products/FNK0043B.MAIN.jpg    
+.. |FNK0043B.MAIN| image:: ../_static/products/RaspberryPi/FNK0043B.MAIN.jpg    
     :class: product-image
     :width: 60%
-.. |FNK0050.MAIN| image:: ../_static/products/FNK0050.MAIN.jpg    
+.. |FNK0050.MAIN| image:: ../_static/products/RaspberryPi/FNK0050.MAIN.jpg    
     :class: product-image
     :width: 60%
-.. |FNK0052.MAIN| image:: ../_static/products/FNK0052.MAIN.jpg    
+.. |FNK0052.MAIN| image:: ../_static/products/RaspberryPi/FNK0052.MAIN.jpg    
     :class: product-image
     :width: 60%
-.. |FNK0077.MAIN| image:: ../_static/products/FNK0077.MAIN.jpg    
+.. |FNK0077.MAIN| image:: ../_static/products/RaspberryPi/FNK0077.MAIN.jpg    
     :class: product-image
     :width: 60%
-
-
-
-
