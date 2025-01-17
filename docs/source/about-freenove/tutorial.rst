@@ -319,13 +319,13 @@ tutorial
       - Freenove Super Starter Kit for ESP32	
       - `View <https://github.com/Freenove/Freenove_Super_Starter_Kit_for_ESP32>`_	
       - `Download <https://github.com/Freenove/Freenove_Super_Starter_Kit_for_ESP32/archive/refs/heads/main.zip>`_
-      - Online
+      - :Freenove:`Online <fnk0046>`
 
     * - FNK0047	
       - Freenove Ultimate Starter Kit for ESP32	
       - `View <https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_ESP32>`_	
       - `Download <https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_ESP32/archive/master.zip>`_
-      - Online
+      - :Freenove:`Online <fnk0047>`
 
     * - FNK0048	
       - Freenove 18650 Battery and Charger Kit	
@@ -395,13 +395,13 @@ tutorial
       - Freenove ESP32-WROVER Board	
       - `View <https://github.com/Freenove/Freenove_ESP32_WROVER_Board>`_	
       - `Download <https://github.com/Freenove/Freenove_ESP32_WROVER_Board/archive/refs/heads/main.zip>`_
-      - Online
+      - :Freenove:`Online <fnk0060>`
 
     * - FNK0061	
       - Freenove Basic Starter Kit for ESP32	
       - `View <https://github.com/Freenove/Freenove_Basic_Starter_Kit_for_ESP32>`_	
       - `Download <https://github.com/Freenove/Freenove_Basic_Starter_Kit_for_ESP32/archive/refs/heads/main.zip>`_
-      - Online
+      - :Freenove:`Online <fnk0061>`
 
     * - FNK0062	
       - Freenove Robot Dog Kit for ESP32	
@@ -571,7 +571,7 @@ tutorial
       - Freenove ESP32-WROOM Board	
       - `View <https://github.com/Freenove/Freenove_ESP32_WROOM_Board>`_	
       - `Download <https://github.com/Freenove/Freenove_ESP32_WROOM_Board/archive/refs/heads/main.zip>`_
-      - Online
+      - :Freenove:`Online <fnk0090>`
 
     * - FNK0091	
       - Freenove Breakout Board for ESP32	
@@ -633,3 +633,14 @@ tutorial
       - `Download <https://github.com/Freenove/Freenove_ESP32_S3_WROOM_Board_Lite/archive/refs/heads/main.zip>`_
       - Online
 
+    * - FNK0100
+      - Freenove Computer Case Kit for Raspberry Pi	
+      - `View <https://github.com/Freenove/Freenove_Computer_Case_Kit_for_Raspberry_Pi>`_	
+      - `Download <https://github.com/Freenove/Freenove_Computer_Case_Kit_for_Raspberry_Pi/archive/refs/heads/main.zip>`_
+      - Online
+
+    * - FNK0101
+      - Freenove Breakout Board
+      - `View <https://github.com/Freenove/Freenove_Breakout_Board>`_	
+      - `Download <https://github.com/Freenove/Freenove_Breakout_Board/archive/refs/heads/main.zip>`_
+      - Online

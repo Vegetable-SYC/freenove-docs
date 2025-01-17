@@ -50,19 +50,19 @@ Robotics kits
      -  Name
 
    * -  |FNK0030.MAIN|
-     -  :Freenove:`FNK0030 <fnk0030>`
+     -  fnk0030
      -  Freenove Quadruped Robot Kit with Remote (Compatible with Arduino IDE)
 
    * -  |FNK0031.MAIN|
-     -  :Freenove:`FNK0031 <fnk0031>`
+     -  fnk0031
      -  Freenove Hexapod Robot Kit with Remote (Compatible with Arduino IDE)
 
    * -  |FNK0041.MAIN|
-     -  :Freenove:`FNK0041 <fnk0041>`
+     -  fnk0041
      -  Freenove 4WD Car Kit (Compatible with Arduino IDE)
 
    * -  |FNK0042.MAIN|
-     -  :Freenove:`FNK0042 <fnk0042>`
+     -  fnk0042
      -  Freenove Robot Ant Kit (Compatible with Arduino IDE)
 
 .. |FNK0030.MAIN| image:: ../_static/products/Arduino/FNK0030.MAIN.jpg
