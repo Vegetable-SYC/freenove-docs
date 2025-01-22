@@ -1,8 +1,6 @@
-###########
+###############
 tutorial
-###########
-
-.. _Freenove: https://docs.freenove.com/projects/
+###############
 
 .. image:: ../_static/images/banner_tutorial.png
 
@@ -521,25 +519,25 @@ tutorial
       - Freenove Ultimate Starter Kit for ESP32-S3	
       - `View <https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_ESP32_S3>`_	
       - `Download <https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_ESP32_S3/archive/refs/heads/main.zip>`_
-      - Online
+      - :Freenove:`Online <fnk0082>`
 
     * - FNK0083	
       - Freenove Super Starter Kit for ESP32-S3	
       - `View <https://github.com/Freenove/Freenove_Super_Starter_Kit_for_ESP32_S3>`_	
       - `Download <https://github.com/Freenove/Freenove_Super_Starter_Kit_for_ESP32_S3/archive/refs/heads/main.zip>`_
-      - Online
+      - :Freenove:`Online <fnk0083>`
 
     * - FNK0084	
       - Freenove Basic Starter Kit for ESP32-S3	
       - `View <https://github.com/Freenove/Freenove_Basic_Starter_Kit_for_ESP32_S3>`_	
       - `Download <https://github.com/Freenove/Freenove_Basic_Starter_Kit_for_ESP32_S3/archive/refs/heads/main.zip>`_
-      - Online
+      - :Freenove:`Online <fnk0084>`
 
     * - FNK0085	
       - Freenove ESP32-S3-WROOM Board	
       - `View <https://github.com/Freenove/Freenove_ESP32_S3_WROOM_Board>`_	
       - `Download <https://github.com/Freenove/Freenove_ESP32_S3_WROOM_Board/archive/refs/heads/main.zip>`_
-      - Online
+      - :Freenove:`Online <fnk0085>`
 
     * - FNK0086	
       - Freenove Development Kit for ESP32-S3	

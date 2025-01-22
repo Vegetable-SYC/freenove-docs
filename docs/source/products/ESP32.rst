@@ -5,10 +5,9 @@ Starter kits
 ----------------------------------------------------------------
 
 .. list-table:: 
-   :width: 90%
+   :width: 83.5%
    :header-rows: 1 
-   :widths: 3 2 5
-   :align: center
+   :align: left
    
    * -  Image
      -  SKU
@@ -35,12 +34,7 @@ Starter kits
      -  Freenove ESP32-WROOM Board
 
 .. |FNK0046| image:: ../_static/products/ESP32/FNK0046.png   
-    :width: 50%
 .. |FNK0047| image:: ../_static/products/ESP32/FNK0047.png   
-    :width: 50%
 .. |FNK0060| image:: ../_static/products/ESP32/FNK0060.png   
-  :width: 50%
 .. |FNK0061| image:: ../_static/products/ESP32/FNK0061.png   
-  :width: 50%
 .. |FNK0090| image:: ../_static/products/ESP32/FNK0090.png   
-  :width: 50%

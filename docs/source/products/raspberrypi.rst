@@ -4,10 +4,9 @@ Starter kits
 ----------------------------------------------------------------
 
 .. list-table:: 
-   :width: 80%
    :header-rows: 1 
-   :widths: 3 2 5
-   :align: center
+   :width: 75%
+   :align: left
    
    * -  Image
      -  SKU
@@ -46,30 +45,21 @@ Starter kits
      -  Freenove Projects Kit for Raspberry Pi
 
 .. |FNK0019.MAIN| image:: ../_static/products/RaspberryPi/FNK0019.MAIN.jpg    
-    :width: 60%
 .. |FNK0020.MAIN| image:: ../_static/products/RaspberryPi/FNK0020.MAIN.jpg    
-    :width: 60%
 .. |FNK0022.MAIN| image:: ../_static/products/RaspberryPi/FNK0022.MAIN.jpg    
-    :width: 60%
 .. |FNK0023.MAIN| image:: ../_static/products/RaspberryPi/FNK0023.MAIN.jpg    
-    :width: 60%
 .. |FNK0024.MAIN| image:: ../_static/products/RaspberryPi/FNK0024.MAIN.jpg    
-    :width: 60%
 .. |FNK0025.MAIN| image:: ../_static/products/RaspberryPi/FNK0025.MAIN.jpg    
-    :width: 60%
 .. |FNK0066.MAIN| image:: ../_static/products/RaspberryPi/FNK0066.MAIN.jpg    
-    :width: 60%
 .. |FNK0054.MAIN| image:: ../_static/products/RaspberryPi/FNK0054.MAIN.jpg    
-    :width: 60%
 
 Robotics kits
 ----------------------------------------------------------------
 
 .. list-table:: 
-   :width: 90%
    :header-rows: 1 
-   :widths: 3 2 5
-   :align: center
+   :width: 83%
+   :align: left
    
    * -  Image
      -  SKU
@@ -104,23 +94,9 @@ Robotics kits
      -  Freenove Tank Robot Kit for Raspberry Pi
 
 .. |FNK0021.MAIN| image:: ../_static/products/RaspberryPi/FNK0021.MAIN.jpg
-    :class: product-image
-    :width: 60%
 .. |FNK0036.MAIN| image:: ../_static/products/RaspberryPi/FNK0036.MAIN.jpg
-    :class: product-image
-    :width: 60%
 .. |FNK0043.MAIN| image:: ../_static/products/RaspberryPi/FNK0043.MAIN.jpg    
-    :class: product-image
-    :width: 60%
 .. |FNK0043B.MAIN| image:: ../_static/products/RaspberryPi/FNK0043B.MAIN.jpg    
-    :class: product-image
-    :width: 60%
 .. |FNK0050.MAIN| image:: ../_static/products/RaspberryPi/FNK0050.MAIN.jpg    
-    :class: product-image
-    :width: 60%
 .. |FNK0052.MAIN| image:: ../_static/products/RaspberryPi/FNK0052.MAIN.jpg    
-    :class: product-image
-    :width: 60%
 .. |FNK0077.MAIN| image:: ../_static/products/RaspberryPi/FNK0077.MAIN.jpg    
-    :class: product-image
-    :width: 60%

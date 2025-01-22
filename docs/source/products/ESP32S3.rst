@@ -5,10 +5,9 @@ Starter kits
 ----------------------------------------------------------------
 
 .. list-table:: 
-   :width: 90%
-   :header-rows: 1 
-   :widths: 3 2 5
-   :align: center
+   :header-rows: 1
+   :width: 86.5% 
+   :align: left
    
    * -  Image
      -  SKU
@@ -39,14 +38,8 @@ Starter kits
      -  Freenove Development Kit for ESP32-S3-WROOM CAM
 
 .. |FNK0082| image:: ../_static/products/ESP32S3/FNK0082.png   
-    :width: 60%
 .. |FNK0083| image:: ../_static/products/ESP32S3/FNK0083.png   
-    :width: 60%
 .. |FNK0084| image:: ../_static/products/ESP32S3/FNK0084.png   
-  :width: 60%
 .. |FNK0085| image:: ../_static/products/ESP32S3/FNK0085.png   
-  :width: 60%
 .. |FNK0086| image:: ../_static/products/ESP32S3/FNK0086.png   
-  :width: 60%
 .. |FNK0099| image:: ../_static/products/ESP32S3/FNK0099.png   
-  :width: 60%
