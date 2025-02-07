@@ -543,7 +543,7 @@ tutorial
       - Freenove Development Kit for ESP32-S3	
       - `View <https://github.com/Freenove/Freenove_Development_Kit_for_ESP32_S3>`_	
       - `Download <https://github.com/Freenove/Freenove_Development_Kit_for_ESP32_S3/archive/refs/heads/main.zip>`_
-      - Online
+      - :Freenove:`Online <fnk0086>`
 
     * - FNK0087	
       - Freenove Spot Welder	
@@ -629,7 +629,7 @@ tutorial
       - Freenove ESP32-S3-WROOM Board Lite	
       - `View <https://github.com/Freenove/Freenove_ESP32_S3_WROOM_Board_Lite>`_	
       - `Download <https://github.com/Freenove/Freenove_ESP32_S3_WROOM_Board_Lite/archive/refs/heads/main.zip>`_
-      - Online
+      - :Freenove:`Online <fnk0099>`
 
     * - FNK0100
       - Freenove Computer Case Kit for Raspberry Pi	
