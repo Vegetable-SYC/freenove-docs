@@ -267,7 +267,7 @@ tutorial
       - Freenove Micro:Rover	
       - `View <https://github.com/Freenove/Freenove_Micro_Rover>`_	
       - `Download <https://github.com/Freenove/Freenove_Micro_Rover/archive/master.zip>`_
-      - Online
+      - :Freenove:`Online <fnk0037>`
 
     * - FNK0038	
       - Freenove Micro:Rover Kit without micro:bit	
@@ -311,7 +311,7 @@ tutorial
       - Freenove Ultimate Starter Kit for micro:bit	
       - `View <https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_microbit>`_	
       - `Download <https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_microbit/archive/master.zip>`_
-      - Online
+      - :Freenove:`Online <fnk0045>`
 
     * - FNK0046	
       - Freenove Super Starter Kit for ESP32	
@@ -447,13 +447,13 @@ tutorial
       - Freenove BBC micro:bit Board	
       - `View <https://github.com/Freenove/Freenove_microbit_Board>`_	
       - `Download <https://github.com/Freenove/Freenove_microbit_Board/archive/refs/heads/main.zip>`_
-      - Online
+      - :Freenove:`Online <fnk0070>`
 
     * - FNK0071	
       - Freenove Super Starter Kit for micro:bit	
       - `View <https://github.com/Freenove/Freenove_Super_Starter_Kit_for_microbit>`_	
       - `Download <https://github.com/Freenove/Freenove_Super_Starter_Kit_for_microbit/archive/refs/heads/main.zip>`_
-      - Online
+      - :Freenove:`Online <fnk0071>`
 
     * - FNK0072	
       - Freenove Basic Starter Kit for micro:bit	

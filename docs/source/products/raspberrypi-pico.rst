@@ -26,7 +26,7 @@ Starter kits
      -  Freenove Basic Starter Kit for Raspberry Pi Pico 1 2 W H WH
 
    * -  |FNK0065|
-     -  :Freenove:`FNK0058 <fnk0058>`
+     -  :Freenove:`FNK0065 <fnk0058>`
      -  Freenove Raspberry Pi Pico (W) Board with Headers
 
 .. |FNK0058| image:: ../_static/products/RaspberryPi-Pico/FNK0058.png    
