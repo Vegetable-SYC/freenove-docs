@@ -46,7 +46,7 @@ Robotics kits
      -  Name
 
    * -  |FNK0037|
-     -  :Freenove:`FNK0070 <fnk0037>`
+     -  :Freenove:`FNK0037 <fnk0037>`
      -  Freenove Micro:Rover Kit for BBC micro:bit V2
 
 .. |FNK0037| image:: ../_static/products/micro_bit/FNK0037.png
