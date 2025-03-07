@@ -1,6 +1,7 @@
-###############
-tutorial
-###############
+.. _tutorial:
+
+Tutorial
+================================================================
 
 .. image:: ../_static/images/banner_tutorial.png
 
