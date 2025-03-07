@@ -59,7 +59,7 @@ html_theme_options = {
     'navigation_depth': -1,
     'version_selector': True,
     'includehidden': True,
-    # 'style_nav_header_background': '#FFF',
+    # 'style_nav_header_background': '#E3E3E3',
 
 }
 
@@ -95,7 +95,7 @@ extlinks = {
 html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 
 intersphinx_mapping = {
-    "fnk0017": ("https://docs.freenove.com/projects/fnk0017/en/latest/", None), 
+    # "fnk0017": ("https://docs.freenove.com/projects/fnk0017/en/latest/", None), 
 }
 intersphinx_disabled_reftypes = ["*"]
 
