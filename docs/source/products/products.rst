@@ -34,12 +34,12 @@ BBC micro:bit Series
 
 .. include:: micro-bit.rst
 
-Control Board V4 (Compatible Arduino UNO R3) Series
+Control Board V5 (Compatible Arduino UNO R4) Series
 ================================================================
 
 .. include:: Arduino-UNO-R4.rst
 
-Control Board V5 (Compatible Arduino UNO R4) Series
+Control Board V4 (Compatible Arduino UNO R3) Series
 ================================================================
 
 .. include:: arduino.rst
