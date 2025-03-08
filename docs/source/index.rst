@@ -10,6 +10,7 @@ Thank you for choosing Freenove products!
 
 Select Products
 ****************************************************************
+Click on the link below to obtain your product manual.
 
 :ref:`By SKU <tutorial>`
 
@@ -30,8 +31,6 @@ Select Products
 
    | お問い合わせは support@freenove.com までお願いします。
    | 当社は自社製品に対して責任を負います。
-
-Click on the link below to obtain your product manual.
 
 .. toctree::
    :maxdepth: 1
