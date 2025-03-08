@@ -58,7 +58,7 @@ Robotics kits
 
 .. list-table:: 
    :header-rows: 1 
-   :width: 83%
+   :width: 84%
    :align: left
    
    * -  Image
@@ -66,11 +66,11 @@ Robotics kits
      -  Name
 
    * -  |FNK0021.MAIN|
-     -  fnk0021
+     -  FNK0021
      -  Freenove Three-wheeled Smart Car Kit for Raspberry Pi
 
    * -  |FNK0036.MAIN|
-     -  fnk0036
+     -  FNK0036
      -  Freenove Robot Arm Kit for Raspberry Pi
 
    * -  |FNK0043.MAIN|
@@ -78,7 +78,7 @@ Robotics kits
      -  Freenove 4WD Smart Car Kit for Raspberry Pi
 
    * -  |FNK0043B.MAIN| 
-     -  fnk0043B
+     -  FNK0043B
      -  Freenove 4MWD Smart Car Kit for Raspberry Pi
 
    * -  |FNK0050.MAIN|
@@ -90,7 +90,7 @@ Robotics kits
      -  Freenove Big Hexapod Robot Kit for Raspberry Pi
 
    * -  |FNK0077.MAIN|
-     -  fnk0077
+     -  FNK0077
      -  Freenove Tank Robot Kit for Raspberry Pi
 
 .. |FNK0021.MAIN| image:: ../_static/products/RaspberryPi/FNK0021.MAIN.jpg

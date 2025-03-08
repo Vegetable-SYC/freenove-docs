@@ -48,6 +48,3 @@ Starter kits
 .. |FNK0094| image:: ../_static/products/Arduino/FNK0094.png    
 .. |FNK0095| image:: ../_static/products/Arduino/FNK0095.png    
 .. |FNK0096| image:: ../_static/products/Arduino/FNK0096.png
-
-Robotics kits
-----------------------------------------------------------------

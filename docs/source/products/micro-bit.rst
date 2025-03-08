@@ -6,7 +6,7 @@ Starter kits
 
 .. list-table:: 
    :header-rows: 1 
-   :width: 77.5%
+   :width: 78.5%
    :align: left
    
    * -  Image
@@ -26,7 +26,7 @@ Starter kits
      -  Freenove Super Starter Kit for BBC micro:bit V2
 
    * -  |FNK0072|
-     -  :Freenove:`FNK0071 <fnk0072>`
+     -  :Freenove:`FNK0072 <fnk0072>`
      -  Freenove Basic Starter Kit for BBC micro:bit V2
 
 .. |FNK0045| image:: ../_static/products/micro_bit/FNK0045.png    

@@ -47,7 +47,9 @@ Control Board V4 (Compatible Arduino UNO R3) Series
 Components
 ================================================================
 
-
+.. include:: Components.rst
 
 Tools
 ================================================================
+
+.. include:: Tools.rst

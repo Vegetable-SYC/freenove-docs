@@ -33,8 +33,3 @@ Starter kits
 .. |FNK0074| image:: ../_static/products/ESP8266/FNK0074.png  
 .. |FNK0075| image:: ../_static/products/ESP8266/FNK0075.png  
 .. |FNK0076| image:: ../_static/products/ESP8266/FNK0076.png  
-
-Robotics kits
-----------------------------------------------------------------
-
-.. .. list-table:: 

@@ -29,39 +29,44 @@ Starter kits
      -  :Freenove:`FNK0065 <fnk0058>`
      -  Freenove Raspberry Pi Pico (W) Board with Headers
 
+   * -  |FNK0081|
+     -  :Freenove:`FNK0081 <fnk0081>`
+     -  Freenove Breakout Board for Raspberry Pi Pico 1 2 W H WH
+
 .. |FNK0058| image:: ../_static/products/RaspberryPi-Pico/FNK0058.png    
 .. |FNK0063| image:: ../_static/products/RaspberryPi-Pico/FNK0063.png    
 .. |FNK0064| image:: ../_static/products/RaspberryPi-Pico/FNK0064.png    
 .. |FNK0065| image:: ../_static/products/RaspberryPi-Pico/FNK0065.png    
+.. |FNK0081| image:: ../_static/products/RaspberryPi-Pico/FNK0081.png   
 
 Robotics kits
 ----------------------------------------------------------------
 
-.. .. list-table:: 
-..    :header-rows: 1 
-..    :align: center
+.. list-table:: 
+   :header-rows: 1 
+   :width: 91.5%
+   :align: left
    
-..    * -  Image
-..      -  SKU
-..      -  Name
+   * -  Image
+     -  SKU
+     -  Name
 
-..    * -  |FNK0030.MAIN|
-..      -  fnk0030
-..      -  Freenove Quadruped Robot Kit with Remote (Compatible with Arduino IDE)
+   * -  |FNK0033|
+     -  FNK0033
+     -  Freenove Bipedal Robot Kit for Raspberry Pi Pico 1 2 W H WH
 
-..    * -  |FNK0031.MAIN|
-..      -  fnk0031
-..      -  Freenove Hexapod Robot Kit with Remote (Compatible with Arduino IDE)
+   * -  |FNK0089_1|
+     -  FNK0089
+     -  Freenove 4WD Car Kit for Raspberry Pi Pico 1 2 W H WH
+   * -  |FNK0089_2|
+     -  FNK0089
+     -  Freenove 4MWD Car Kit for Raspberry Pi Pico 1 2 W H WH
 
-..    * -  |FNK0041.MAIN|
-..      -  fnk0041
-..      -  Freenove 4WD Car Kit (Compatible with Arduino IDE)
+   * -  |FNK0097|
+     -  FNK0097
+     -  Freenove Omni Wheel Car Kit for Raspberry Pi Pico 1 2 W H WH
 
-..    * -  |FNK0042.MAIN|
-..      -  fnk0042
-..      -  Freenove Robot Ant Kit (Compatible with Arduino IDE)
-
-.. .. |FNK0030.MAIN| image:: ../_static/products/Arduino/FNK0030.MAIN.jpg
-.. .. |FNK0031.MAIN| image:: ../_static/products/Arduino/FNK0031.MAIN.jpg
-.. .. |FNK0041.MAIN| image:: ../_static/products/Arduino/FNK0041B.MAIN.jpg    
-.. .. |FNK0042.MAIN| image:: ../_static/products/Arduino/FNK0042.MAIN.jpg
+.. |FNK0033| image:: ../_static/products/RaspberryPi-Pico/FNK0033.png   
+.. |FNK0089_1| image:: ../_static/products/RaspberryPi-Pico/FNK0089_1.png   
+.. |FNK0089_2| image:: ../_static/products/RaspberryPi-Pico/FNK0089_2.png   
+.. |FNK0097| image:: ../_static/products/RaspberryPi-Pico/FNK0097.png   
