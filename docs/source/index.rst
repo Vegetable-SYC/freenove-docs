@@ -36,6 +36,7 @@ Click on the link below to obtain your product manual.
 .. toctree::
    :maxdepth: 1
    :titlesonly:
+   :hidden:
    :caption: Products
 
    products/by_sku.rst
