@@ -172,7 +172,7 @@ Tutorial
         for Raspberry Pi	
       - `View <https://github.com/Freenove/Freenove_Three-wheeled_Smart_Car_Kit_for_Raspberry_Pi>`_	
       - `Download <https://github.com/Freenove/Freenove_Three-wheeled_Smart_Car_Kit_for_Raspberry_Pi/archive/master.zip>`_
-      - :Freenove:`Online <fnk0020>`
+      - :Freenove:`Online <fnk0021>`
 
     * - FNK0022	
       - Freenove Basic Starter Kit for Raspberry Pi	
