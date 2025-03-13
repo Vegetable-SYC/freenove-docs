@@ -85,6 +85,9 @@ html_css_files = [
     "css/custom.css"
 ]
 
+html_js_files = [
+    'https://raw.githubusercontent.com/Freenove/freenove-docs/refs/heads/nav/docs/source/_static/js/navigationStyle.js',
+]
 
 extlinks = {
     "Freenove": (
