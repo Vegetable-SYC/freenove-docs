@@ -86,7 +86,7 @@ html_css_files = [
 ]
 
 html_js_files = [
-    'https://raw.githubusercontent.com/Freenove/freenove-docs/refs/heads/nav/docs/source/_static/js/navigationStyle.js',
+    'https://raw.githubusercontent.com/Vegetable-SYC/freenove-docs-nav/refs/heads/master/docs/source/_static/js/navigationStyle.js',
 ]
 
 extlinks = {
