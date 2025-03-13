@@ -2,92 +2,31 @@
 Support
 ###########
 
-Get Tutorial
+Get Support
 ********************
 
-.. list-table:: 
-   :width: 80%
-   :header-rows: 1 
-   :align: center
-   
-   * -  .. image:: /_static/images/support.png
-            :width: 10%
-        .. container:: centered
+.. admonition:: Get Support
+    
+    :x-large-bold:`We are fully responsible for our products!`
 
-            :x-large:`Get Support`
+    | Please feel free to send us an email if you have any concerns,
+    | whether they are questions before buying or problems in use.
 
-   * -  |
-       
-        .. container:: centered 
-          
-            **We are fully responsible for our products!**
-        
-        |
+    | support@freenove.com
 
-        .. container:: centered 
-         
-            **Please feel free to send us an email if you have any concerns,**
-        
-        .. container:: centered
-            
-            **whether they are questions before buying or problems in use.**
-        
-        |
+    | In general, we will reply to you within one working day.
 
-        .. container:: centered
-            
-            sale@freenove.com
-        
-        |
-
-        .. container:: centered
-            
-            **In general, we will reply to you within one working day.**
-
-        |
 
 Get Tutorial
 ********************
 
-.. list-table:: 
-   :width: 80%
-   :header-rows: 1 
-   :align: center
-   
-   * -  .. image:: /_static/images/download.png
-            :width: 10%
-        .. container:: centered
+.. admonition:: Get Support
 
-            :x-large:`Get Tutorial`
 
-   * -  |
-       
-        .. container:: centered 
-          
-            **Download digital materials for Freenove products.**
-        
-        |
+    | Download digital materials for Freenove products.
+    | Tutorial list page
+    | Please feel free to contact us if you need any help.
 
-        .. container:: centered 
-         
-            :ref:`Tutorial list page<Tutorial>`
-        
-        |
+    | support@freenove.com
 
-        .. container:: centered
-            
-            **Please feel free to contact us if you need any help.**
-        
-        |
-
-        .. container:: centered
-            
-            support@freenove.com
-        
-        |
-
-        .. container:: centered
-            
-            **In general, we will reply to you within one working day.**
-
-        |
+    | In general, we will reply to you within one working day.

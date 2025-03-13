@@ -30,6 +30,7 @@ extensions = [
     'sphinx.ext.doctest',
     "sphinx.ext.extlinks",
     "sphinx.ext.intersphinx",
+    "sphinx.ext.extlinks",
 ]
 
 source_suffix = {
@@ -58,7 +59,7 @@ html_theme_options = {
     'navigation_depth': -1,
     'version_selector': True,
     'includehidden': True,
-    # 'style_nav_header_background': '#FFF',
+    # 'style_nav_header_background': '#E3E3E3',
 
 }
 
@@ -84,18 +85,17 @@ html_css_files = [
     "css/custom.css"
 ]
 
+
 extlinks = {
-    "tutorial-link": (
-        "rpi-starter-kit/%s",
-        "tutorial-link%s"
+    "Freenove": (
+        "https://docs.freenove.com/projects/%s/en/latest/", None
     )
 }
 
 html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 
-
 intersphinx_mapping = {
-    "rpi-starter-kit": ("https://freenove-docs2.readthedocs.io/projects/fnk0020/en/latest/", None),
+    # "fnk0017": ("https://docs.freenove.com/projects/fnk0017/en/latest/", None), 
 }
 intersphinx_disabled_reftypes = ["*"]
 

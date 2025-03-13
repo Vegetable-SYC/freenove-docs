@@ -1,5 +1,5 @@
 ################################################################
-Freenove documentation
+Freenove Documentation
 ################################################################
 This is the product documentation for Freenove.
 
@@ -8,6 +8,14 @@ Welcome
 
 Thank you for choosing Freenove products!
 
+Select Products
+****************************************************************
+Click on the link below to obtain your product manual.
+
+:ref:`By SKU <tutorial>`
+
+:ref:`By Series <products>`  
+   
 .. tip::
    * :red:`Product quality issues`
    * :red:`Technical support`
@@ -24,7 +32,14 @@ Thank you for choosing Freenove products!
    | お問い合わせは support@freenove.com までお願いします。
    | 当社は自社製品に対して責任を負います。
 
-Click on the link below to obtain your product manual.
+.. toctree::
+   :maxdepth: 1
+   :titlesonly:
+   :hidden:
+   :caption: Products
+
+   products/by_sku.rst
+   products/products.rst
 
 .. toctree::
    :maxdepth: 2
@@ -32,10 +47,3 @@ Click on the link below to obtain your product manual.
    :caption: About Freenove
    
    Freenove.rst
-
-.. toctree::
-   :maxdepth: 2
-   :titlesonly:
-   :caption: Freenove Product
-
-   products/products.rst
