@@ -27,9 +27,6 @@ release = 'v1.0.0'
 
 # extensions = ['recommonmark','sphinx_markdown_tables']
 extensions = [
-    'sphinx.ext.autosectionlabel',
-    'sphinx_copybutton',
-    'sphinx_rtd_theme',
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     "sphinx.ext.extlinks",
