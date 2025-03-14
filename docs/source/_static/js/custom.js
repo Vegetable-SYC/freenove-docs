@@ -120,5 +120,5 @@ window.onload = function () {
     $("#copy_right").text("© CopyRight 2016 - " + new Date().getFullYear() + ", Freenove")
 };
 
-console.log('freenove');
+// console.log('freenove');
 
