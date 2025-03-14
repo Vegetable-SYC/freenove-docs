@@ -48,8 +48,11 @@ exclude_patterns = []
 
 html_static_path = ['_static']
 
-html_favicon = "https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/images/freenove_logo_tag_icon.png"
-html_logo = "https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/images/freenove_logo_home_button.png"
+# html_favicon = "https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/images/freenove_logo_tag_icon.png"
+# html_logo = "https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/images/freenove_logo_home_button.png"
+
+html_favicon = "https://raw.githubusercontent.com/Freenove/freenove-docs/refs/heads/main/docs/source/_static/images/freenove_logo_tag_icon.png"
+html_logo = "https://raw.githubusercontent.com/Freenove/freenove-docs/refs/heads/main/docs/source/_static/images/freenove_logo_home_button.png"
 
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
