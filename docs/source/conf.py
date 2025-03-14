@@ -2,11 +2,17 @@
 #
 # For the full list of built-in configuration values, see the documentation:
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
+
+from datetime import datetime
 import os
 import pathlib
 import sys
 sys.path.insert(0, pathlib.Path(__file__).parents[2].resolve().as_posix())
 
+
+
+# os.system("rm -r freenove_kit")
+# os.system("git clone --depth 1 https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi freenove_kit")
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
@@ -21,7 +27,6 @@ release = 'v1.0.0'
 
 # extensions = ['recommonmark','sphinx_markdown_tables']
 extensions = [
-    # 'myst_parser',
     'sphinx.ext.autosectionlabel',
     'sphinx_copybutton',
     'sphinx_rtd_theme',
@@ -46,8 +51,8 @@ exclude_patterns = []
 
 html_static_path = ['_static']
 
-html_favicon = "https://cdn.jsdelivr.net/gh/SuhaylZhao/freenove-docs-nav@main/docs/source/_static/images/freenove_logo_tag_icon.png"
-html_logo = "https://cdn.jsdelivr.net/gh/SuhaylZhao/freenove-docs-nav@main/docs/source/_static/images/freenove_logo_home_button.png"
+html_favicon = "https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@main/docs/source/_static/images/freenove_logo_tag_icon.png"
+html_logo = "https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@main/docs/source/_static/images/freenove_logo_home_button.png"
 
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
@@ -55,12 +60,12 @@ html_theme_options = {
     'logo_only': True,
     'navigation_depth': -1,
     'includehidden': True,
-    'flyout_display': 'attached',
+    'flyout_display': 'hidden',
     'version_selector': True,
     'prev_next_buttons_location': 'both',
     'style_external_links': True,
     'language_selector': True,
-    'titles_only': True,
+    # 'titles_only': True,
     # 'style_nav_header_background': '#E3E3E3',
 
 }
@@ -78,13 +83,12 @@ rst_prolog = """
 """
 
 html_css_files = [
-    'https://cdn.jsdelivr.net/gh/SuhaylZhao/freenove-docs-nav@main/docs/source/_static/css/color-roles.css',
-    'https://cdn.jsdelivr.net/gh/SuhaylZhao/freenove-docs-nav@main/docs/source/_static/css/custom.css',
-    'https://cdn.jsdelivr.net/gh/SuhaylZhao/freenove-docs-nav@main/docs/source/_static/css/navigationStyle.css',
+    'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@main/docs/source/_static/css/color-roles.css',
+    'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@main/docs/source/_static/css/custom.css',
+    'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@main/docs/source/_static/css/navigationStyle.css',
 ]
-
 html_js_files = [
-    'https://cdn.jsdelivr.net/gh/SuhaylZhao/freenove-docs-nav@main/docs/source/_static/js/custom.js',
+    'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@main/docs/source/_static/js/custom.js',
 ]
 
 extlinks = {
@@ -96,12 +100,11 @@ extlinks = {
 html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 
 intersphinx_mapping = {
-    # "fnk0017": ("https://docs.freenove.com/projects/fnk0017/en/latest/", None),
+    # "fnk0017": ("https://docs.freenove.com/projects/fnk0017/en/latest/", None), 
 }
 intersphinx_disabled_reftypes = ["*"]
 
 
 def setup(app):
-    app.add_css_file(
-        'https://cdn.jsdelivr.net/gh/SuhaylZhao/freenove-docs-nav@main/docs/source/_static/css/custom.css')
     # app.add_css_file("css/custom.css")
+    app.add_css_file('https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@main/docs/source/_static/css/custom.css')
