@@ -113,9 +113,8 @@ function setNavBar() {
     navBar.innerHTML = navBarHtml;
 }
 
-window.onload = function () {
-    
-    console.log('window.onload');
+window.onload = function () {    
+    // console.log('window.onload');
     let footer_content = document.getElementById('footer_content');
     footer_content.innerHTML = footerHtml;
     $("#copy_right").text("© CopyRight 2016 - " + new Date().getFullYear() + ", Freenove")
