@@ -48,8 +48,8 @@ exclude_patterns = []
 
 html_static_path = ['_static']
 
-html_favicon = "https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@main/docs/source/_static/images/freenove_logo_tag_icon.png"
-html_logo = "https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@main/docs/source/_static/images/freenove_logo_home_button.png"
+html_favicon = "https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/images/freenove_logo_tag_icon.png"
+html_logo = "https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/images/freenove_logo_home_button.png"
 
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
@@ -80,12 +80,12 @@ rst_prolog = """
 """
 
 html_css_files = [
-    'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@main/docs/source/_static/css/color-roles.css',
-    'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@main/docs/source/_static/css/custom.css',
-    'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@main/docs/source/_static/css/navigationStyle.css',
+    'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/css/color-roles.css',
+    'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/css/custom.css',
+    'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/css/navigationStyle.css',
 ]
 html_js_files = [
-    'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@main/docs/source/_static/js/custom.js',
+    'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/js/custom.js',
 ]
 
 extlinks = {
@@ -104,4 +104,4 @@ intersphinx_disabled_reftypes = ["*"]
 
 def setup(app):
     # app.add_css_file("css/custom.css")
-    app.add_css_file('https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@main/docs/source/_static/css/custom.css')
+    app.add_css_file('https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/css/custom.css')
