@@ -113,8 +113,22 @@ function setNavBar() {
     navBar.innerHTML = navBarHtml;
 }
 
+function setPageLogo() {
+    var link =      document.querySelector("link[rel*='icon']") ||      document.createElement("link");
+    link.type = "image/x-icon";
+    link.rel = "shortcut icon";
+    link.href = "https://cdn.jsdelivr.net/gh/Freenove/freenove-docs/docs/source/_static/images/freenove_logo_tag_icon.png";
+    document.getElementsByTagName("head")[0].appendChild(link);
+}
+function setHomeButtonPicture() {
+    let home_button = document.getElementsByClassName('logo');
+    // console.log(home_button);
+    home_button[0].src = "https://cdn.jsdelivr.net/gh/Freenove/freenove-docs/docs/source/_static/images/freenove_logo_home_button.png";
+}
 window.onload = function () {    
     // console.log('window.onload');
+    setPageLogo();
+    setHomeButtonPicture();
     let footer_content = document.getElementById('footer_content');
     footer_content.innerHTML = footerHtml;
     $("#copy_right").text("© CopyRight 2016 - " + new Date().getFullYear() + ", Freenove")
