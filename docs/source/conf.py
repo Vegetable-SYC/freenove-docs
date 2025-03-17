@@ -70,7 +70,6 @@ html_theme_options = {
 
 }
 
-
 # multi-language docs
 language = 'en'
 locale_dirs = ['../locales/']   # path is example but recommended.
@@ -81,6 +80,20 @@ rst_prolog = """
 .. include:: <s5defs.txt>
 .. include:: ../_static/style/custom-style.txt
 """
+
+variables_to_export = [
+    "project",
+    "copyright",
+    "version",
+]
+frozen_locals = dict(locals())
+prolog = "\n".join(
+    map(lambda x: f".. |{x}| replace:: {frozen_locals[x]}",
+        variables_to_export)
+)
+# rst_prolog = rst_prolog + prolog
+print(rst_prolog)
+del frozen_locals
 
 html_css_files = [
     'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@nav/docs/source/_static/css/color-roles.css',
