@@ -47,25 +47,11 @@ exclude_patterns = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_static_path = ['_static']
-
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 html_favicon = "_static/images/freenove_logo_tag_icon.png"
 html_logo = "_static/images/freenove_logo_home_button.png"
-=======
+
 # html_favicon = "https://cdn.jsdelivr.net/gh/Freenove/freenove-docs/docs/source/_static/images/freenove_logo_tag_icon.png"
 # html_logo = "https://cdn.jsdelivr.net/gh/Freenove/freenove-docs/docs/source/_static/images/freenove_logo_home_button.png"
->>>>>>> Stashed changes
-=======
-# html_favicon = "https://cdn.jsdelivr.net/gh/Freenove/freenove-docs/docs/source/_static/images/freenove_logo_tag_icon.png"
-# html_logo = "https://cdn.jsdelivr.net/gh/Freenove/freenove-docs/docs/source/_static/images/freenove_logo_home_button.png"
->>>>>>> Stashed changes
-
-# html_favicon = "https://raw.githubusercontent.com/Freenove/freenove-docs/refs/heads/main/docs/source/_static/images/freenove_logo_tag_icon.png"
-# html_logo = "https://raw.githubusercontent.com/Freenove/freenove-docs/refs/heads/main/docs/source/_static/images/freenove_logo_home_button.png"
-
-html_favicon = "_static/images/freenove_logo_tag_icon.png"
-html_logo = "_static/images/freenove_logo_home_button.png"
 
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
@@ -134,4 +120,4 @@ intersphinx_disabled_reftypes = ["*"]
 
 def setup(app):
     # app.add_css_file("css/custom.css")
-    app.add_css_file('https://cdn.jsdelivr.net/gh/Freenove/freenove-docs/docs/source/_static/css/custom.css')
+    # app.add_css_file('https://cdn.jsdelivr.net/gh/Freenove/freenove-docs/docs/source/_static/css/custom.css')
