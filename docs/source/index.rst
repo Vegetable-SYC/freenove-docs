@@ -8,10 +8,10 @@ Welcome
 
 Thank you for choosing Freenove products!
 
-Get Product Manuals
+Get Product Tutorial
 ****************************************************************
 
-Click on the link below to obtain your product manual.
+Click on the link below to obtain your product tutorial.
 
 :ref:`Select by SKU (the FNK No. on the product box) <tutorial>`
 
