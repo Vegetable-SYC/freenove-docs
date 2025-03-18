@@ -8,13 +8,14 @@ Welcome
 
 Thank you for choosing Freenove products!
 
-Select Products
+Get Product Manuals
 ****************************************************************
+
 Click on the link below to obtain your product manual.
 
-:ref:`By SKU <tutorial>`
+:ref:`Select by SKU (the FNK No. on the product box) <tutorial>`
 
-:ref:`By Series <products>`  
+:ref:`Browse by Series <products>`  
    
 .. tip::
    * :red:`Product quality issues`
