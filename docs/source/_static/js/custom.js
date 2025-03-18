@@ -133,7 +133,7 @@ window.onload = function () {
     // setHomeButtonPicture();
     let footer_content = document.getElementById('footer_content');
     footer_content.innerHTML = footerHtml;
-    $("#copy_right").text("© CopyRight 2016 - " + new Date().getFullYear() + ", Freenove")
+    $("#copy_right").text("© Copyright 2016 - " + new Date().getFullYear() + ", Freenove")
 };
 
 // console.log('freenove');
