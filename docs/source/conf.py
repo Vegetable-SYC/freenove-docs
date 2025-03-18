@@ -20,7 +20,7 @@ sys.path.insert(0, pathlib.Path(__file__).parents[2].resolve().as_posix())
 project = 'freenove-docs'
 copyright = '2016-2025, Freenove'
 author = 'Freenove'
-release = 'v1.0.0'
+version = 'v1.0.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -87,8 +87,7 @@ variables_to_export = [
 ]
 frozen_locals = dict(locals())
 prolog = "\n".join(
-    map(lambda x: f".. |{x}| replace:: {frozen_locals[x]}",
-        variables_to_export)
+    map(lambda x: f".. |{x}| replace:: {frozen_locals[x]}",variables_to_export)
 )
 # rst_prolog = rst_prolog + prolog
 print(rst_prolog)
@@ -120,5 +119,6 @@ intersphinx_disabled_reftypes = ["*"]
 
 
 def setup(app):
+    pass
     # app.add_css_file("css/custom.css")
     # app.add_css_file('https://cdn.jsdelivr.net/gh/Freenove/freenove-docs/docs/source/_static/css/custom.css')
