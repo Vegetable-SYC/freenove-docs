@@ -22,6 +22,10 @@ Starter kits
      -  :Freenove:`FNK0034 <fnk0034>`
      -  Freenove RFID Starter Kit V2.0 (Compatible with Arduino IDE)
 
+   * -  |FNK0067|
+     -  :Freenove:`FNK0067 <fnk0017>`
+     -  Freenove Control Board (Compatible with Arduino IDE)
+
    * -  |FNK0059.MAIN|
      -  :Freenove:`FNK0059 <fnk0059>`
      -  Freenove Projects Kit (Compatible with Arduino IDE)
@@ -29,6 +33,7 @@ Starter kits
 .. |FNK0017.MAIN| image:: ../_static/products/Arduino/FNK0017E.MAIN.jpg    
 .. |FNK0034.MAIN| image:: ../_static/products/Arduino/FNK0034E.MAIN.jpg    
 .. |FNK0059.MAIN| image:: ../_static/products/Arduino/FNK0059A.MAIN.jpg    
+.. |FNK0067| image:: ../_static/products/Arduino/FNK0067.png   
 
 Robotics kits
 ----------------------------------------------------------------

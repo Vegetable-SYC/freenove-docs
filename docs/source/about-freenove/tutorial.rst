@@ -152,7 +152,7 @@ Tutorial
         without Control Board	
       - `View <https://github.com/Freenove/Freenove_Ultimate_Starter_Kit>`_	
       - `Download <https://github.com/Freenove/Freenove_Ultimate_Starter_Kit/archive/master.zip>`_
-      - Online
+      - :Freenove:`Online <fnk0017>`
 
     * - FNK0019	
       - Freenove Super Starter Kit for Raspberry Pi	
@@ -442,7 +442,7 @@ Tutorial
       - Freenove Control Board	
       - `View <https://github.com/Freenove/Freenove_Ultimate_Starter_Kit>`_	
       - `Download <https://github.com/Freenove/Freenove_Ultimate_Starter_Kit/archive/master.zip>`_
-      - Online
+      - :Freenove:`Online <fnk0017>`
 
     * - FNK0070	
       - Freenove BBC micro:bit Board	
