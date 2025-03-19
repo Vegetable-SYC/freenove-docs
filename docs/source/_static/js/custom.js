@@ -1,17 +1,12 @@
 // JavaScript Document
 $(document).ready(function () {
-    loadReady();
+    setNavBar();
+    NaviResize();
 
 });
 $(window).resize(function () {
     NaviResize();
 });
-
-function loadReady() {
-    setNavBar();
-    NaviResize();
-
-}
 
 function NaviResize() {
     var navWidth = $('.wy-nav-side').width() + $('.wy-nav-content').outerWidth(true) + $('.wy-nav-side').offset().left;
@@ -108,6 +103,10 @@ let footerHtml = `
     <br/>
 </div>`;
 
+let pageHeaderHtml=`
+Need help? Contact <a href="mailto:support@freenove.com">support@freenove.com</a>
+`;
+
 function setNavBar() {
     let navBar = document.getElementById('navContent');
     navBar.innerHTML = navBarHtml;
@@ -131,9 +130,13 @@ window.onload = function () {
     // console.log('window.onload');
     // setPageLogo();
     // setHomeButtonPicture();
+
     let footer_content = document.getElementById('footer_content');
     footer_content.innerHTML = footerHtml;
     $("#copy_right").text("© Copyright 2016 - " + new Date().getFullYear() + ", Freenove")
+
+    let pageHeaderContent = document.getElementById('pageHeaderContent');
+    pageHeaderContent.innerHTML = pageHeaderHtml;
 };
 
 // console.log('freenove');

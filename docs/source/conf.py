@@ -69,6 +69,8 @@ html_theme_options = {
     # 'style_nav_header_background': '#E3E3E3',
 
 }
+# html_copy_source = False
+# html_show_sourcelink = False
 
 # multi-language docs
 language = 'en'

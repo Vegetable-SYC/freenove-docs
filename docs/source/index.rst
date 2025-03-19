@@ -46,5 +46,10 @@ Click on the link below to obtain your product tutorial.
    :maxdepth: 2
    :titlesonly:
    :caption: About Freenove
+
+   about-freenove/support.rst
+   about-freenove/app.rst
+   about-freenove/contact.rst
+   about-freenove/about.rst
+   about-freenove/tutorial.rst
    
-   Freenove.rst
