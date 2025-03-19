@@ -13,7 +13,11 @@ Get Product Tutorial
 
 Click on the link below to obtain your product tutorial.
 
-:ref:`Select by SKU (the FNK No. on the product box) <tutorial>`
+:ref:`SSS <products/by_sku:tutorial>`
+
+.. :ref:`Select by SKU (the FNK No. on the product box) <tutorial>`
+
+:doc:`Select by SKU (the FNK No. on the product box)  <./products/by_sku>`
 
 :ref:`Browse by Series <products>`  
    

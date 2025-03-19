@@ -10,7 +10,6 @@ import sys
 sys.path.insert(0, pathlib.Path(__file__).parents[2].resolve().as_posix())
 
 
-
 # os.system("rm -r freenove_kit")
 # os.system("git clone --depth 1 https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi freenove_kit")
 
@@ -28,14 +27,16 @@ version = 'v1.0.0'
 
 # extensions = ['recommonmark','sphinx_markdown_tables']
 extensions = [
-    'sphinx.ext.duration',
-    'sphinx.ext.doctest',
+    "sphinx.ext.duration",
+    "sphinx.ext.doctest",
     "sphinx.ext.extlinks",
     "sphinx.ext.intersphinx",
     "sphinx.ext.extlinks",
+    "sphinx.ext.autosectionlabel",
     # "sphinx_favicon"
 ]
 
+autosectionlabel_prefix_document = True
 source_suffix = {
     '.rst': 'restructuredtext',
 }
@@ -90,7 +91,8 @@ variables_to_export = [
 ]
 frozen_locals = dict(locals())
 prolog = "\n".join(
-    map(lambda x: f".. |{x}| replace:: {frozen_locals[x]}",variables_to_export)
+    map(lambda x: f".. |{x}| replace:: {frozen_locals[x]}",
+        variables_to_export)
 )
 # rst_prolog = rst_prolog + prolog
 print(rst_prolog)
@@ -116,7 +118,7 @@ extlinks = {
 html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 
 intersphinx_mapping = {
-    # "fnk0017": ("https://docs.freenove.com/projects/fnk0017/en/latest/", None), 
+    # "fnk0017": ("https://docs.freenove.com/projects/fnk0017/en/latest/", None),
 }
 intersphinx_disabled_reftypes = ["*"]
 
@@ -125,3 +127,5 @@ def setup(app):
     pass
     # app.add_css_file("css/custom.css")
     # app.add_css_file('https://cdn.jsdelivr.net/gh/Freenove/freenove-docs/docs/source/_static/css/custom.css')
+
+suppress_warnings = ['autosectionlabel.*']
