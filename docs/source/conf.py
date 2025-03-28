@@ -48,8 +48,8 @@ exclude_patterns = []
 
 html_static_path = ['_static']
 
-favicon_url = "_static/images/freenove-logo.png"
-html_logo = "_static/images/freenove-logo.png"
+favicon_url = 'https://cdn.jsdelivr.net/gh/Vegetable-SYC/freenove-docs-nav@master/docs/source/_static/images/freenove-logo.png'
+html_logo = 'https://cdn.jsdelivr.net/gh/Vegetable-SYC/freenove-docs-nav@master/docs/source/_static/images/freenove-logo.png'
 # html_theme = 'alabaster'
 
 html_theme = 'sphinx_rtd_theme'
@@ -81,12 +81,15 @@ rst_prolog = """
 """
 
 html_css_files = [
-    "css/color-roles.css",
-    "css/custom.css"
+    'https://cdn.jsdelivr.net/gh/Vegetable-SYC/freenove-docs-nav@master/docs/source/_static/css/color-roles.css',
+    'https://cdn.jsdelivr.net/gh/Vegetable-SYC/freenove-docs-nav@master/docs/source/_static/css/custom.css',
+    'https://cdn.jsdelivr.net/gh/Vegetable-SYC/freenove-docs-nav@master/docs/source/_static/css/navigationStyle.css',
+    'https://cdn.jsdelivr.net/gh/Vegetable-SYC/freenove-docs-nav@master/docs/source/_templates/layout.html',
+    'https://cdn.jsdelivr.net/gh/Vegetable-SYC/freenove-docs-nav@master/docs/source/_templates/navigation.html',
 ]
 
 html_js_files = [
-    'https://raw.githubusercontent.com/Vegetable-SYC/freenove-docs-nav/refs/heads/master/docs/source/_static/js/navigationStyle.js',
+    'https://cdn.jsdelivr.net/gh/Vegetable-SYC/freenove-docs-nav@master/docs/source/_static/js/navigationStyle.js',
 ]
 
 extlinks = {
@@ -101,7 +104,6 @@ intersphinx_mapping = {
     # "fnk0017": ("https://docs.freenove.com/projects/fnk0017/en/latest/", None), 
 }
 intersphinx_disabled_reftypes = ["*"]
-
 
 def setup(app):
 
